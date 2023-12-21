@@ -1,0 +1,1 @@
+pyinstaller -F -w -n dencrypt_images_v2.1.exe app.py
